@@ -6,4 +6,14 @@ Users specify the number of times they would like to run ollama with a standardi
 
 The script then runs ollama N times and provides an average eval rate in Tokens/Second.
 
-Note: Batch scripts operate on Integers, so some precision is lost. 
+Note: Batch scripts operate on Integers, so some precision is lost. i
+
+== Usage
+
+``` bash.num
+C:\>Path\To\Tool>ollamaBench.bat
+```
+
+== Run Time Sample
+
+image::./assets/images/benchmark.png[alt=OllamaBenchmark,width=480,height=640,align="center"]
