@@ -1,7 +1,10 @@
 @echo off
 cls
 
-REM Copyright (c) 2012-2025 Savoir Technologies, Inc.
+REM ====================================================================
+REM Benchmark models via ollama via evaluation rate in tokens per second
+REM ====================================================================
+REM  * Copyright (c) 2012-2025 Savoir Technologies, Inc.
 REM  *
 REM  * Licensed under the Apache License, Version 2.0 (the "License");
 REM  * you may not use this file except in compliance with the License.
